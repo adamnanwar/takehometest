@@ -11,7 +11,7 @@
       <!-- Judul Web (Left Aligned on the Navbar, but centered text) -->
       <div class="flex flex-col items-center justify-center pointer-events-none md:ml-4">
         <span class="text-xl md:text-2xl font-serif text-gray-800 tracking-widest uppercase mb-1">PAN PACIFIC</span>
-        <span class="text-[8px] md:text-[10px]  text-gray-500 tracking-widest uppercase leading-none">SUZHOU</span>
+        <!-- <span class="text-[8px] md:text-[10px]  text-gray-500 tracking-widest uppercase leading-none">SUZHOU</span> -->
       </div>
     </div>
 
