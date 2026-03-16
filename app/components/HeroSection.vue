@@ -72,7 +72,7 @@ const slides = ref([
   {
     image: '/images/melbourne.jpg',
     location: 'AUSTRALIA',
-    title: 'The Essential Travel<br/>Guide To Melbourne',
+    title: 'Travel guide to Melbourne<br/> PARKROYAL Monash',
     tags: ['SOLO TRAVELLER', 'FIRST-TIMER', 'LIFESTYLE', 'ROAD TRIP']
   },
   {
